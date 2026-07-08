@@ -1,5 +1,5 @@
 #search-result {
-    width: 70%;
+    width: 90%;
     margin: 30px auto 50px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
